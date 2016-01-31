@@ -12,4 +12,10 @@ In order to select years of interests use the slider. It has two nobs to choose 
 
 The plot with monthly totals will be updated automatically once you selected the date range.
 
+## Online access
+
+You can try the application online using this url:
+
+https://pachkov.shinyapps.io/ddp_project/
+
 Have fun!
